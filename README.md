@@ -1,2 +1,2 @@
 # Autotests
-trololo
+just a test repo
